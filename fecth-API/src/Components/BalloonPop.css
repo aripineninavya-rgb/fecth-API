@@ -18,9 +18,9 @@
     border-radius: 50% 50% 50% 50%;
     cursor: pointer;
     animation: rise 6s linear forwards;
-    width: 50px;
-    height: 70px;
-    background-color:rgba(255, 0, 0, 0.5);
+    width: 90px;
+    height: 80px;
+    
 
 
 }
