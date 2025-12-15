@@ -36,3 +36,30 @@
     color: green;
 
 }
+
+.form{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+button {
+
+  padding: 14px;
+  border: none;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #ffffff, #dcd4ff);
+  font-weight: 700;
+  margin-top: 20px;
+  cursor: pointer;
+  color:red;
+  transition: 0.2s;
+  font-size: 1rem;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.4);
+}
+
+button:hover {
+  transform: scale(1.03);
+  color: #4d40e6;
+}
